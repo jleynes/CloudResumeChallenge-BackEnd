@@ -3,7 +3,7 @@
 # CloudResumeChallenge-BackEnd
 The back end of the cloud resume challenge.
 
-Technology used: S3, DynamoDB, AWS Lambda
+Technology used: S3, DynamoDB, AWS Lambda, Terraform
 
 # To Do
-Create API for DynamoDB 
+Create Terraform configurations
